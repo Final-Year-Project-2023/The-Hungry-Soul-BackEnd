@@ -2,6 +2,8 @@
 
 **Before starting the repo, go through the Contribution Guidelines [here](docs/CONTRIBUTION_GUIDELINES.md).**
 
+**Join the Slack Channel [here](https://join.slack.com/t/newworkspace-ehc8313/shared_invite/zt-1dpeo32lj-dJouZW1LKoDm_o~YfG1v8g).**
+
 To start off,
 
 1. Install Node JS in your system. 
