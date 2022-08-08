@@ -1,5 +1,7 @@
 # The Hungry Soul Backend
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Final-Year-Project-2023/Project-Phase-1-BackEnd/tree/develop.svg?style=svg&circle-token=8032940f8ae2da088a2c33f7174cf63d245b1c3f)](https://dl.circleci.com/status-badge/redirect/gh/Final-Year-Project-2023/Project-Phase-1-BackEnd/tree/develop)
+
 **Before starting the repo, go through the Contribution Guidelines [here](docs/CONTRIBUTION_GUIDELINES.md).**
 
 **Join the Slack Channel [here](https://join.slack.com/t/newworkspace-ehc8313/shared_invite/zt-1dpeo32lj-dJouZW1LKoDm_o~YfG1v8g).**
