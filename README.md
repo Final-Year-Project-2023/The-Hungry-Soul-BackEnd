@@ -17,3 +17,5 @@ npm install -g yarn
 
 3. Download VS Code or any other code editor.
 4. Clone the repository and run the command ```yarn install```.
+
+For git commands refer to this [documentation](docs/GIT_COMMANDS.md).
