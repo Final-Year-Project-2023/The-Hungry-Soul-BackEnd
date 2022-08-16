@@ -1,12 +1,15 @@
 const app = require("express")();
 const morgan = require("morgan");
 const helmet = require("helmet");
+const bodyParser = require("body-parser");
 const { PORT, FRONTEND_URL } = require("./config");
 
 // TODO: ADD WINSTON LOGGER
 
 app.use(morgan("dev"));
 app.use(helmet());
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
 
 // WHITELISTED URLS
 const whitelistURLS = [FRONTEND_URL];
